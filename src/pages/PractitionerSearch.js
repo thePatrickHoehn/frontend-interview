@@ -8,7 +8,7 @@ export default function PractitionerSearch() {
         <>
         <div style={{padding: '20px'}}> 
             <h1>Practitioner Search</h1>
-            <p>This page is not implenented yet.</p>
+            <p>Please implement your code here.</p>
         </div>
         </>
     )
