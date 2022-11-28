@@ -3,15 +3,15 @@
 
 ## Before running the servers:
 
-### npm install
+### `npm install`
 
-### npm install -g json-server 
+### `npm install -g json-server` 
 json-server is used to run a local db by looking at a local json file. Used to simulate a back end. 
 
 
 ## To Start Servers run:
 
-### 'json-server --watch db.json'
+### `json-server --watch db.json`
 
 watches the top level db.json file and allows access to through port 8080
 
