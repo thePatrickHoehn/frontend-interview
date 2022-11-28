@@ -127,39 +127,12 @@
               "zip": "802295023"
             }
           ],
-          "credential": [
-            {
-              "credential": "PT"
-            },
-            {
-              "credential": "DPT"
-            }
-          ],
-          "email": [ ],
+          "credential": ["PT","DPT"],
           "first_name": "JOY",
           "gender": "f",
           "last_name": "SCOTT",
-          "npi": "1598218299",
-          "pecos_id": "3072899418",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physical Therapist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "225100000X",
-              "taxonomy_name": "Physical Therapist"
-            }
-          ]
+          "npi": "1598245699",
+          "specialty": ["Physical Therapist"]
         },
         {
           "address": [
@@ -208,42 +181,12 @@
               "zip": "802192141"
             }
           ],
-          "credential": [
-            {
-              "credential": "NP"
-            }
-          ],
-          "email": [ ],
+          "credential": ["NP"],
           "first_name": "DEANA",
           "gender": "f",
           "last_name": "HALAT",
-          "npi": "1790012979",
-          "pecos_id": "4981743911",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": true,
-            "is_prescriber": true,
-            "is_primary_care_provider": true,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physician",
-              "Nurse Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "363L00000X",
-              "taxonomy_name": "Nurse Practitioner"
-            },
-            {
-              "is_primary": false,
-              "taxonomy_code": "207P00000X",
-              "taxonomy_name": "Emergency Medicine Physician"
-            }
-          ]
+          "npi": "1222012979",
+          "specialty": ["Nurse Practitioner","Emergency Medicine Physician"]
         },
         {
           "address": [
@@ -281,43 +224,12 @@
               "zip": "802294809"
             }
           ],
-          "credential": [
-            {
-              "credential": "MD"
-            }
-          ],
-          "email": [
-            "gshemesh@western-ortho.com"
-          ],
+          "credential": ["MD"],
           "first_name": "GARETH",
           "gender": "m",
           "last_name": "SHEMESH",
           "npi": "1619980620",
-          "pecos_id": "6901870856",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physician"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "208100000X",
-              "taxonomy_name": "Physical Medicine & Rehabilitation Physician"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "2081P2900X",
-              "taxonomy_name": "Pain Medicine (Physical Medicine & Rehabilitation) Physician"
-            }
-          ]
+          "specialty": ["Physical Medicine & Rehabilitation Physician", "Pain Medicine (Physical Medicine & Rehabilitation) Physician"]
         },
         {
           "address": [
@@ -355,42 +267,12 @@
               "zip": "802105847"
             }
           ],
-          "credential": [
-            {
-              "credential": "NP"
-            }
-          ],
-          "email": [ ],
+          "credential": ["NP"],
           "first_name": "KIMBERLY",
           "gender": "f",
           "last_name": "MASTERSON",
           "npi": "1780989343",
-          "pecos_id": "5799960159",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": true,
-            "is_prescriber": true,
-            "is_primary_care_provider": true,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Nurse Practitioner",
-              "Physician"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "207Q00000X",
-              "taxonomy_name": "Family Medicine Physician"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "363L00000X",
-              "taxonomy_name": "Nurse Practitioner"
-            }
-          ]
+          "specialty": ["Family Medicine Physician","Nurse Practitioner"]
         },
         {
           "address": [
@@ -406,41 +288,12 @@
               "zip": "802294375"
             }
           ],
-          "credential": [
-            {
-              "credential": "LPC LAC"
-            }
-          ],
-          "email": [ ],
+          "credential": ["LPC",  "LAC"],
           "first_name": "WESTON",
           "gender": "m",
           "last_name": "ZINK",
-          "npi": "1245762541",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Behavioral Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "101YA0400X",
-              "taxonomy_name": "Addiction (Substance Use Disorder) Counselor"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "101YP2500X",
-              "taxonomy_name": "Professional Counselor"
-            }
-          ]
+          "npi": "1245112541",
+          "specialty": ["Addiction (Substance Use Disorder) Counselor", "Professional Counselor"]
         },
         {
           "address": [
@@ -456,36 +309,12 @@
               "zip": "802294375"
             }
           ],
-          "credential": [
-            {
-              "credential": "MFTC"
-            }
-          ],
-          "email": [ ],
+          "credential": ["MFTC"],
           "first_name": "KEVIN",
           "gender": "m",
           "last_name": "KENNAN",
           "npi": "1336645654",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Behavioral Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "101YM0800X",
-              "taxonomy_name": "Mental Health Counselor"
-            }
-          ]
+          "specialty": ["Mental Health Counselor"]
         },
         {
           "address": [
@@ -501,36 +330,12 @@
               "zip": "802294337"
             }
           ],
-          "credential": [
-            {
-              "credential": "LPC"
-            }
-          ],
-          "email": [ ],
+          "credential": ["LPC"],
           "first_name": "KATIE",
           "gender": "f",
           "last_name": "KRONLUND GRIFFITH",
           "npi": "1780320994",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Behavioral Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "101YP2500X",
-              "taxonomy_name": "Professional Counselor"
-            }
-          ]
+          "specialty": ["Professional Counselor"]
         },
         {
           "address": [
@@ -546,38 +351,12 @@
               "zip": "802294375"
             }
           ],
-          "credential": [
-            {
-              "credential": "MA"
-            },
-            {
-              "credential": "LPC"
-            }
-          ],
-          "email": [ ],
+          "credential": ["MA","LPC"],
           "first_name": "JENNIFER",
           "gender": "f",
           "last_name": "NAKATA",
-          "npi": "1285031070",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Behavioral Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "101YP2500X",
-              "taxonomy_name": "Professional Counselor"
-            }
+          "npi": "1285032220",
+          "specialty": ["Professional Counselor"
           ]
         },
         {
@@ -594,36 +373,12 @@
               "zip": "802292101"
             }
           ],
-          "credential": [
-            {
-              "credential": "LCSW"
-            }
-          ],
-          "email": [ ],
+          "credential": ["LCSW"],
           "first_name": "ALEXA",
           "gender": "f",
           "last_name": "CORREIA",
           "npi": "1730757428",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Behavioral Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "1041C0700X",
-              "taxonomy_name": "Clinical Social Worker"
-            }
-          ]
+          "specialty": ["Clinical Social Worker"]
         },
         {
           "address": [
@@ -639,36 +394,12 @@
               "zip": "802294537"
             }
           ],
-          "credential": [
-            {
-              "credential": "DDS"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DDS"],
           "first_name": "MATTHEW",
           "gender": "m",
           "last_name": "ALLEN",
           "npi": "1144533696",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "122300000X",
-              "taxonomy_name": "Dentist"
-            }
-          ]
+          "specialty": ["Dentist"]
         },
         {
           "address": [
@@ -684,36 +415,12 @@
               "zip": "802292172"
             }
           ],
-          "credential": [
-            {
-              "credential": "DDS"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DDS"],
           "first_name": "MICHAEL",
           "gender": "m",
           "last_name": "FIALA",
           "npi": "1588047963",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "122300000X",
-              "taxonomy_name": "Dentist"
-            }
-          ]
+          "specialty": ["Dentist"]
         },
         {
           "address": [
@@ -729,36 +436,12 @@
               "zip": "802292063"
             }
           ],
-          "credential": [
-            {
-              "credential": "DMD"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DMD"],
           "first_name": "ERIN",
           "gender": "f",
           "last_name": "DEEDY-LEE",
           "npi": "1881908630",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "1223G0001X",
-              "taxonomy_name": "General Practice Dentistry"
-            }
-          ]
+          "specialty": ["General Practice Dentistry"]
         },
         {
           "address": [
@@ -774,36 +457,12 @@
               "zip": "802292050"
             }
           ],
-          "credential": [
-            {
-              "credential": "DDS"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DDS"],
           "first_name": "STEPHEN",
           "gender": "m",
           "last_name": "HUMPHREY",
           "npi": "1689647539",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "1223G0001X",
-              "taxonomy_name": "General Practice Dentistry"
-            }
-          ]
+          "specialty": ["General Practice Dentistry"]
         },
         {
           "address": [
@@ -819,36 +478,12 @@
               "zip": "802294365"
             }
           ],
-          "credential": [
-            {
-              "credential": "DDS"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DDS"],
           "first_name": "SUE",
           "gender": "f",
           "last_name": "JAMES",
           "npi": "1962405712",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "1223G0001X",
-              "taxonomy_name": "General Practice Dentistry"
-            }
-          ]
+          "specialty": ["General Practice Dentistry"]
         },
         {
           "address": [
@@ -864,36 +499,12 @@
               "zip": "802292178"
             }
           ],
-          "credential": [
-            {
-              "credential": "DDS"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DDS"],
           "first_name": "JEFFREY",
           "gender": "m",
           "last_name": "HOLT",
           "npi": "1023495157",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "1223G0001X",
-              "taxonomy_name": "General Practice Dentistry"
-            }
-          ]
+          "specialty": ["General Practice Dentistry"]
         },
         {
           "address": [
@@ -909,36 +520,12 @@
               "zip": "802292050"
             }
           ],
-          "credential": [
-            {
-              "credential": "DDS"
-            }
-          ],
-          "email": [ ],
+          "credential": ["DDS"],
           "first_name": "CHRISTOPHER",
           "gender": "m",
           "last_name": "DUNN",
           "npi": "1972523835",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Dentist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "1223G0001X",
-              "taxonomy_name": "General Practice Dentistry"
-            }
-          ]
+          "specialty": ["General Practice Dentistry"]
         },
         {
           "address": [
@@ -954,36 +541,12 @@
               "zip": "802292100"
             }
           ],
-          "credential": [
-            {
-              "credential": "OD"
-            }
-          ],
-          "email": [ ],
+          "credential": ["OD"],
           "first_name": "PATRICK",
           "gender": "m",
           "last_name": "STIFTER",
           "npi": "1881324614",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Optometrist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "152W00000X",
-              "taxonomy_name": "Optometrist"
-            }
-          ]
+          "specialty": ["Optometrist"]
         },
         {
           "address": [
@@ -999,45 +562,12 @@
               "zip": "802294537"
             }
           ],
-          "credential": [
-            {
-              "credential": "RN"
-            },
-            {
-              "credential": "FNPC"
-            }
-          ],
-          "email": [ ],
+          "credential": ["RN", "FNPC"],
           "first_name": "ASHLEY",
           "gender": "f",
           "last_name": "MOODY",
           "npi": "1356857007",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": true,
-            "is_prescriber": true,
-            "is_primary_care_provider": true,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Nurse Practitioner",
-              "Nurse"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "163W00000X",
-              "taxonomy_name": "Registered Nurse"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "363LF0000X",
-              "taxonomy_name": "Family Nurse Practitioner"
-            }
-          ]
+          "specialty": ["Registered Nurse", "Family Nurse Practitioner"]
         },
         {
           "address": [
@@ -1053,34 +583,12 @@
               "zip": "802294367"
             }
           ],
-          "credential": [
-            {
-              "credential": "MD"
-            }
-          ],
-          "email": [ ],
+          "credential": ["MD"],
           "first_name": "DENNIS",
           "gender": "m",
           "last_name": "OLSON",
           "npi": "1841397254",
-          "pecos_id": null,
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": false,
-            "practitioner_type": [ ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "174400000X",
-              "taxonomy_name": "Specialist"
-            }
-          ]
+          "specialty": ["Specialist"]
         },
         {
           "address": [
@@ -1129,53 +637,13 @@
               "zip": "983723771"
             }
           ],
-          "credential": [
-            {
-              "credential": "DO"
-            }
-          ],
-          "email": [
-            "ldaivu@msn.com"
+          "credential": ["DO"
           ],
           "first_name": "LONG",
           "gender": "m",
           "last_name": "VU",
           "npi": "1194723973",
-          "pecos_id": "8527094028",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physician"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "207L00000X",
-              "taxonomy_name": "Anesthesiology Physician"
-            },
-            {
-              "is_primary": false,
-              "taxonomy_code": "207LP2900X",
-              "taxonomy_name": "Pain Medicine (Anesthesiology) Physician"
-            },
-            {
-              "is_primary": false,
-              "taxonomy_code": "207LC0200X",
-              "taxonomy_name": "Critical Care Medicine (Anesthesiology) Physician"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "208VP0000X",
-              "taxonomy_name": "Pain Medicine Physician"
-            }
-          ]
+          "specialty": ["Anesthesiology Physician", "Pain Medicine (Anesthesiology) Physician", "Critical Care Medicine (Anesthesiology) Physician","Pain Medicine Physician"]
         },
         {
           "address": [
@@ -1214,31 +682,11 @@
             }
           ],
           "credential": [ ],
-          "email": [ ],
           "first_name": "BRYAN",
           "gender": "m",
           "last_name": "DURAN",
           "npi": "1942731708",
-          "pecos_id": "1456767011",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": false,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physical Therapist"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "225100000X",
-              "taxonomy_name": "Physical Therapist"
-            }
-          ]
+          "specialty": ["Physical Therapist"]
         },
         {
           "address": [
@@ -1276,47 +724,12 @@
               "zip": "802294386"
             }
           ],
-          "credential": [
-            {
-              "credential": "NP"
-            }
-          ],
-          "email": [ ],
+          "credential": ["NP"],
           "first_name": "ANNIE",
           "gender": "f",
           "last_name": "FLOYD",
           "npi": "1811510944",
-          "pecos_id": "2567877541",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": true,
-            "is_prescriber": true,
-            "is_primary_care_provider": true,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Nurse Practitioner",
-              "Nurse"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "363LF0000X",
-              "taxonomy_name": "Family Nurse Practitioner"
-            },
-            {
-              "is_primary": false,
-              "taxonomy_code": "163WP0000X",
-              "taxonomy_name": "Pain Management Registered Nurse"
-            },
-            {
-              "is_primary": false,
-              "taxonomy_code": "225000000X",
-              "taxonomy_name": "Orthotic Fitter"
-            }
-          ]
+          "specialty": ["Family Nurse Practitioner", "Pain Management Registered Nurse", "Orthotic Fitter"]
         },
         {
           "address": [
@@ -1376,36 +789,12 @@
               "zip": "803023826"
             }
           ],
-          "credential": [
-            {
-              "credential": "FNPC"
-            }
-          ],
-          "email": [ ],
+          "credential": ["FNPC"],
           "first_name": "LAUREN",
           "gender": "f",
           "last_name": "BERNATIS",
           "npi": "1568034148",
-          "pecos_id": "9234532607",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": true,
-            "is_prescriber": true,
-            "is_primary_care_provider": true,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Nurse Practitioner"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": true,
-              "taxonomy_code": "363LF0000X",
-              "taxonomy_name": "Family Nurse Practitioner"
-            }
-          ]
+          "specialty": ["Family Nurse Practitioner"]
         },
         {
           "address": [
@@ -1453,48 +842,12 @@
               "zip": "325032337"
             }
           ],
-          "credential": [
-            {
-              "credential": "DO"
-            }
-          ],
-          "email": [
-            "drshoemakerdo@gmail.com"
-          ],
+          "credential": ["DO"],
           "first_name": "ERIC",
           "gender": "m",
           "last_name": "SHOEMAKER",
           "npi": "1053554261",
-          "pecos_id": "5597908103",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physician"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "208100000X",
-              "taxonomy_name": "Physical Medicine & Rehabilitation Physician"
-            },
-            {
-              "is_primary": false,
-              "taxonomy_code": "207QS0010X",
-              "taxonomy_name": "Sports Medicine (Family Medicine) Physician"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "2081S0010X",
-              "taxonomy_name": "Sports Medicine (Physical Medicine & Rehabilitation) Physician"
-            }
-          ]
+          "specialty": ["Physical Medicine & Rehabilitation Physician", "Sports Medicine (Family Medicine) Physician"]
         },
         {
           "address": [
@@ -1532,43 +885,12 @@
               "zip": "802294386"
             }
           ],
-          "credential": [
-            {
-              "credential": "MD"
-            }
-          ],
-          "email": [
-            "aaron@sayreville.com"
-          ],
+          "credential": ["MD"],
           "first_name": "AARON",
           "gender": "m",
           "last_name": "BAXTER",
           "npi": "1174557318",
-          "pecos_id": "9931103801",
-          "prac_language": [ ],
-          "practitioner_tags": {
-            "is_advanced_practice_provider": false,
-            "is_prescriber": true,
-            "is_primary_care_provider": false,
-            "is_referrable": true,
-            "practitioner_type": [
-              "Physician"
-            ]
-          },
-          "sanctioned": false,
-          "sanctions": [ ],
-          "specialty": [
-            {
-              "is_primary": false,
-              "taxonomy_code": "208600000X",
-              "taxonomy_name": "Surgery Physician"
-            },
-            {
-              "is_primary": true,
-              "taxonomy_code": "207X00000X",
-              "taxonomy_name": "Orthopaedic Surgery Physician"
-            }
-          ]
+          "specialty": ["Surgery Physician", "Orthopaedic Surgery Physician"]
         }
       ]
 }
