@@ -1,25 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { ROUTE_ERROR_REPORTS, ROUTE_PRACTITIONER_SEARCH, 
+        ROUTE_DATA_REPORTS, ROUTE_LIBRARY
+} from './routes'
+import ErrorReports from './pages/ErrorReports'
+import DataReports from './pages/DataReports'
+import PractitionerSearch from './pages/PractitionerSearch'
+import Library from './pages/Library'
+import SidebarComponent from './components/SidebarComponent'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    return (
+        <div style={{ display: 'flex', height: '100vh' }}>
+            <Router>
+            <SidebarComponent/>
+                <Routes>
+                    <Route path={ROUTE_LIBRARY} element={<Library/>}/>
+                    <Route path={ROUTE_ERROR_REPORTS} element={<ErrorReports/>}/>
+                    <Route path={ROUTE_DATA_REPORTS} element={<DataReports/>}/>
+                    <Route path={ROUTE_PRACTITIONER_SEARCH} element={<PractitionerSearch/>}/>
+                </Routes>
+            </Router>
+        </div>
+    );
 }
 
 export default App;

@@ -1,0 +1,1574 @@
+{
+    "prefixDetails": [
+        {
+        "name": "Name1",
+        "approved": false,
+        "type": "Type 1"
+        },
+        {
+        "name": "Name2",
+        "approved": true,
+        "type": "Type 3"
+        },
+        {
+        "name": "Name3",
+        "approved": false,
+        "type": "Type 3"
+        },
+        {
+        "name": "Name4",
+        "approved": false,
+        "type": "Type 1"
+        },
+        {
+        "name": "Name5",
+        "approved": true,
+        "type": "Type 3"
+        },
+        {
+        "name": "Name6",
+        "approved": true,
+        "type": "Type 2"
+        },
+        {
+        "name": "Name7",
+        "approved": false,
+        "type": "Type 1"
+        },
+        {
+        "name": "Name8",
+        "approved": false,
+        "type": "Type 3"
+        },
+        {
+        "name": "Name9",
+        "approved": false,
+        "type": "Type 2"
+        },
+        {
+        "name": "Name10",
+        "approved": false,
+        "type": "Type 1"
+        },
+        {
+        "name": "Name11",
+        "approved": true,
+        "type": "Type 3"
+        },
+        {
+        "name": "Name12",
+        "approved": false,
+        "type": "Type 3"
+        },{
+        "name": "Name13",
+        "approved": false,
+        "type": "Type 1"
+        },
+        {
+        "name": "Name14",
+        "approved": false,
+        "type": "Type 2"
+        },
+        {
+        "name": "Name15",
+        "approved": false,
+        "type": "Type 3"
+        },
+        {
+        "name": "Name16",
+        "approved": false,
+        "type": "Type 1"
+        },
+        {
+        "name": "Name17",
+        "approved": false,
+        "type": "Type 2"
+        },
+        {
+        "name": "Name18",
+        "approved": true,
+        "type": "Type 3"
+        }
+    ],
+    "practitioners": [
+        {
+          "address": [
+            {
+              "addr1": "2490 W 26th Ave Ste 220a",
+              "addr2": "",
+              "city": "Denver",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7206948686",
+              "state": "CO",
+              "zip": "802115385"
+            },
+            {
+              "addr1": "4201 Connecticut Ave Nw Ste 406",
+              "addr2": "",
+              "city": "Washington",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "2024703168",
+              "state": "DC",
+              "zip": "200081166"
+            },
+            {
+              "addr1": "2152 E 88th Ave",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "2022931853",
+              "state": "CO",
+              "zip": "802295023"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "PT"
+            },
+            {
+              "credential": "DPT"
+            }
+          ],
+          "email": [ ],
+          "first_name": "JOY",
+          "gender": "f",
+          "last_name": "SCOTT",
+          "npi": "1598218299",
+          "pecos_id": "3072899418",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physical Therapist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "225100000X",
+              "taxonomy_name": "Physical Therapist"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "500 E 84th Ave Ste B14",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3032877070",
+              "state": "CO",
+              "zip": "802295311"
+            },
+            {
+              "addr1": "10355 E Iliff Ave",
+              "addr2": "",
+              "city": "Aurora",
+              "fax": "3037554956",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3037554955",
+              "state": "CO",
+              "zip": "802473622"
+            },
+            {
+              "addr1": "125 E Hampden Ave",
+              "addr2": "",
+              "city": "Englewood",
+              "fax": "3037889260",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3037889292",
+              "state": "CO",
+              "zip": "801132546"
+            },
+            {
+              "addr1": "120 Bryant St Ste 210",
+              "addr2": "",
+              "city": "Denver",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3039369700",
+              "state": "CO",
+              "zip": "802192141"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "NP"
+            }
+          ],
+          "email": [ ],
+          "first_name": "DEANA",
+          "gender": "f",
+          "last_name": "HALAT",
+          "npi": "1790012979",
+          "pecos_id": "4981743911",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": true,
+            "is_prescriber": true,
+            "is_primary_care_provider": true,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physician",
+              "Nurse Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "363L00000X",
+              "taxonomy_name": "Nurse Practitioner"
+            },
+            {
+              "is_primary": false,
+              "taxonomy_code": "207P00000X",
+              "taxonomy_name": "Emergency Medicine Physician"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "1601 E 19th Ave Ste 4400",
+              "addr2": "",
+              "city": "Denver",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3034246565",
+              "state": "CO",
+              "zip": "802181253"
+            },
+            {
+              "addr1": "4485 Wadsworth Blvd Ste 105",
+              "addr2": "",
+              "city": "Wheat Ridge",
+              "fax": "3034246843",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3034246565",
+              "state": "CO",
+              "zip": "800333309"
+            },
+            {
+              "addr1": "8515 Pearl St Ste 207",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3034246565",
+              "state": "CO",
+              "zip": "802294809"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "MD"
+            }
+          ],
+          "email": [
+            "gshemesh@western-ortho.com"
+          ],
+          "first_name": "GARETH",
+          "gender": "m",
+          "last_name": "SHEMESH",
+          "npi": "1619980620",
+          "pecos_id": "6901870856",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physician"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "208100000X",
+              "taxonomy_name": "Physical Medicine & Rehabilitation Physician"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "2081P2900X",
+              "taxonomy_name": "Pain Medicine (Physical Medicine & Rehabilitation) Physician"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "2535 S Downing St Ste 380",
+              "addr2": "",
+              "city": "Denver",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3037785797",
+              "state": "CO",
+              "zip": "802105850"
+            },
+            {
+              "addr1": "8990 Washington St",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7209291655",
+              "state": "CO",
+              "zip": "802294537"
+            },
+            {
+              "addr1": "2535 S Downing St",
+              "addr2": "",
+              "city": "Denver",
+              "fax": "3037785205",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3037785797",
+              "state": "CO",
+              "zip": "802105847"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "NP"
+            }
+          ],
+          "email": [ ],
+          "first_name": "KIMBERLY",
+          "gender": "f",
+          "last_name": "MASTERSON",
+          "npi": "1780989343",
+          "pecos_id": "5799960159",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": true,
+            "is_prescriber": true,
+            "is_primary_care_provider": true,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Nurse Practitioner",
+              "Physician"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "207Q00000X",
+              "taxonomy_name": "Family Medicine Physician"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "363L00000X",
+              "taxonomy_name": "Nurse Practitioner"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9351 Grant St Ste 480",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7204700594",
+              "state": "CO",
+              "zip": "802294375"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "LPC LAC"
+            }
+          ],
+          "email": [ ],
+          "first_name": "WESTON",
+          "gender": "m",
+          "last_name": "ZINK",
+          "npi": "1245762541",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Behavioral Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "101YA0400X",
+              "taxonomy_name": "Addiction (Substance Use Disorder) Counselor"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "101YP2500X",
+              "taxonomy_name": "Professional Counselor"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9351 Grant St Ste 480",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7209393514",
+              "state": "CO",
+              "zip": "802294375"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "MFTC"
+            }
+          ],
+          "email": [ ],
+          "first_name": "KEVIN",
+          "gender": "m",
+          "last_name": "KENNAN",
+          "npi": "1336645654",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Behavioral Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "101YM0800X",
+              "taxonomy_name": "Mental Health Counselor"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9197 Grant St Ste 200",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "3034503699",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3034503690",
+              "state": "CO",
+              "zip": "802294337"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "LPC"
+            }
+          ],
+          "email": [ ],
+          "first_name": "KATIE",
+          "gender": "f",
+          "last_name": "KRONLUND GRIFFITH",
+          "npi": "1780320994",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Behavioral Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "101YP2500X",
+              "taxonomy_name": "Professional Counselor"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9351 Grant St Ste 480",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3038824679",
+              "state": "CO",
+              "zip": "802294375"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "MA"
+            },
+            {
+              "credential": "LPC"
+            }
+          ],
+          "email": [ ],
+          "first_name": "JENNIFER",
+          "gender": "f",
+          "last_name": "NAKATA",
+          "npi": "1285031070",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Behavioral Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "101YP2500X",
+              "taxonomy_name": "Professional Counselor"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "501 Thornton Pkwy",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "2106153483",
+              "state": "CO",
+              "zip": "802292101"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "LCSW"
+            }
+          ],
+          "email": [ ],
+          "first_name": "ALEXA",
+          "gender": "f",
+          "last_name": "CORREIA",
+          "npi": "1730757428",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Behavioral Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "1041C0700X",
+              "taxonomy_name": "Clinical Social Worker"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "8990 Washington St",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "7205654129",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7209291655",
+              "state": "CO",
+              "zip": "802294537"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DDS"
+            }
+          ],
+          "email": [ ],
+          "first_name": "MATTHEW",
+          "gender": "m",
+          "last_name": "ALLEN",
+          "npi": "1144533696",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "122300000X",
+              "taxonomy_name": "Dentist"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "550 Thornton Pkwy Unit 240a",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3032808878",
+              "state": "CO",
+              "zip": "802292172"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DDS"
+            }
+          ],
+          "email": [ ],
+          "first_name": "MICHAEL",
+          "gender": "m",
+          "last_name": "FIALA",
+          "npi": "1588047963",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "122300000X",
+              "taxonomy_name": "Dentist"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "10260 Washington St Apt 1321",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "5087408129",
+              "state": "CO",
+              "zip": "802292063"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DMD"
+            }
+          ],
+          "email": [ ],
+          "first_name": "ERIN",
+          "gender": "f",
+          "last_name": "DEEDY-LEE",
+          "npi": "1881908630",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "1223G0001X",
+              "taxonomy_name": "General Practice Dentistry"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "10001 Washington St",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3034522053",
+              "state": "CO",
+              "zip": "802292050"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DDS"
+            }
+          ],
+          "email": [ ],
+          "first_name": "STEPHEN",
+          "gender": "m",
+          "last_name": "HUMPHREY",
+          "npi": "1689647539",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "1223G0001X",
+              "taxonomy_name": "General Practice Dentistry"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9351 Grant St Ste 340",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "3032549658",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3032544484",
+              "state": "CO",
+              "zip": "802294365"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DDS"
+            }
+          ],
+          "email": [ ],
+          "first_name": "SUE",
+          "gender": "f",
+          "last_name": "JAMES",
+          "npi": "1962405712",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "1223G0001X",
+              "taxonomy_name": "General Practice Dentistry"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9760 Grant St Ste 100",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7205831425",
+              "state": "CO",
+              "zip": "802292178"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DDS"
+            }
+          ],
+          "email": [ ],
+          "first_name": "JEFFREY",
+          "gender": "m",
+          "last_name": "HOLT",
+          "npi": "1023495157",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "1223G0001X",
+              "taxonomy_name": "General Practice Dentistry"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "10001 Washington St",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "3032809388",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3034522053",
+              "state": "CO",
+              "zip": "802292050"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DDS"
+            }
+          ],
+          "email": [ ],
+          "first_name": "CHRISTOPHER",
+          "gender": "m",
+          "last_name": "DUNN",
+          "npi": "1972523835",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Dentist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "1223G0001X",
+              "taxonomy_name": "General Practice Dentistry"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "550 Thornton Pkwy",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3039203937",
+              "state": "CO",
+              "zip": "802292100"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "OD"
+            }
+          ],
+          "email": [ ],
+          "first_name": "PATRICK",
+          "gender": "m",
+          "last_name": "STIFTER",
+          "npi": "1881324614",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Optometrist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "152W00000X",
+              "taxonomy_name": "Optometrist"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "8990 Washington St",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3036504460",
+              "state": "CO",
+              "zip": "802294537"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "RN"
+            },
+            {
+              "credential": "FNPC"
+            }
+          ],
+          "email": [ ],
+          "first_name": "ASHLEY",
+          "gender": "f",
+          "last_name": "MOODY",
+          "npi": "1356857007",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": true,
+            "is_prescriber": true,
+            "is_primary_care_provider": true,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Nurse Practitioner",
+              "Nurse"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "163W00000X",
+              "taxonomy_name": "Registered Nurse"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "363LF0000X",
+              "taxonomy_name": "Family Nurse Practitioner"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9141 Grant St Ste B40",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3034527700",
+              "state": "CO",
+              "zip": "802294367"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "MD"
+            }
+          ],
+          "email": [ ],
+          "first_name": "DENNIS",
+          "gender": "m",
+          "last_name": "OLSON",
+          "npi": "1841397254",
+          "pecos_id": null,
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": false,
+            "practitioner_type": [ ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "174400000X",
+              "taxonomy_name": "Specialist"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9025 Grant St Ste 200",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7194650069",
+              "state": "CO",
+              "zip": "802294347"
+            },
+            {
+              "addr1": "9351 Grant St Ste 100",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7206872014",
+              "state": "CO",
+              "zip": "802294364"
+            },
+            {
+              "addr1": "7720 S Broadway Ste 310",
+              "addr2": "",
+              "city": "Littleton",
+              "fax": "3032569717",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3035845844",
+              "state": "CO",
+              "zip": "801222624"
+            },
+            {
+              "addr1": "1322 3rd St Se",
+              "addr2": "",
+              "city": "Puyallup",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "2536974111",
+              "state": "WA",
+              "zip": "983723771"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DO"
+            }
+          ],
+          "email": [
+            "ldaivu@msn.com"
+          ],
+          "first_name": "LONG",
+          "gender": "m",
+          "last_name": "VU",
+          "npi": "1194723973",
+          "pecos_id": "8527094028",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physician"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "207L00000X",
+              "taxonomy_name": "Anesthesiology Physician"
+            },
+            {
+              "is_primary": false,
+              "taxonomy_code": "207LP2900X",
+              "taxonomy_name": "Pain Medicine (Anesthesiology) Physician"
+            },
+            {
+              "is_primary": false,
+              "taxonomy_code": "207LC0200X",
+              "taxonomy_name": "Critical Care Medicine (Anesthesiology) Physician"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "208VP0000X",
+              "taxonomy_name": "Pain Medicine Physician"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "400 Indiana St Ste 280",
+              "addr2": "",
+              "city": "Golden",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3032162661",
+              "state": "CO",
+              "zip": "804015069"
+            },
+            {
+              "addr1": "9195 Grant St Ste 305",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7206385474",
+              "state": "CO",
+              "zip": "802294386"
+            },
+            {
+              "addr1": "16522 Keystone Blvd Ste N",
+              "addr2": "",
+              "city": "Parker",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3038407325",
+              "state": "CO",
+              "zip": "801343302"
+            }
+          ],
+          "credential": [ ],
+          "email": [ ],
+          "first_name": "BRYAN",
+          "gender": "m",
+          "last_name": "DURAN",
+          "npi": "1942731708",
+          "pecos_id": "1456767011",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": false,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physical Therapist"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "225100000X",
+              "taxonomy_name": "Physical Therapist"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "400 Indiana St Ste 280",
+              "addr2": "",
+              "city": "Golden",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3032162661",
+              "state": "CO",
+              "zip": "804015069"
+            },
+            {
+              "addr1": "1230 Tenderfoot Hill Rd Ste 255",
+              "addr2": "",
+              "city": "Colorado Springs",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7196949446",
+              "state": "CO",
+              "zip": "809067393"
+            },
+            {
+              "addr1": "9195 Grant St Ste 305",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7206385474",
+              "state": "CO",
+              "zip": "802294386"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "NP"
+            }
+          ],
+          "email": [ ],
+          "first_name": "ANNIE",
+          "gender": "f",
+          "last_name": "FLOYD",
+          "npi": "1811510944",
+          "pecos_id": "2567877541",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": true,
+            "is_prescriber": true,
+            "is_primary_care_provider": true,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Nurse Practitioner",
+              "Nurse"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "363LF0000X",
+              "taxonomy_name": "Family Nurse Practitioner"
+            },
+            {
+              "is_primary": false,
+              "taxonomy_code": "163WP0000X",
+              "taxonomy_name": "Pain Management Registered Nurse"
+            },
+            {
+              "is_primary": false,
+              "taxonomy_code": "225000000X",
+              "taxonomy_name": "Orthotic Fitter"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "1335 E South Boulder Rd",
+              "addr2": "Suite C Afc Urgent Care",
+              "city": "Louisville",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7209619700",
+              "state": "CO",
+              "zip": "800272304"
+            },
+            {
+              "addr1": "8850 W 58th Ave Ste 200",
+              "addr2": "",
+              "city": "Arvada",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3038445000",
+              "state": "CO",
+              "zip": "800022248"
+            },
+            {
+              "addr1": "9351 Grant St Ste 490",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "",
+              "state": "CO",
+              "zip": "802294365"
+            },
+            {
+              "addr1": "1335 E South Boulder Rd Ste C",
+              "addr2": "",
+              "city": "Louisville",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "7209619700",
+              "state": "CO",
+              "zip": "800272304"
+            },
+            {
+              "addr1": "2795 Pearl St Ste 106",
+              "addr2": "",
+              "city": "Boulder",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7209619700",
+              "state": "CO",
+              "zip": "803023826"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "FNPC"
+            }
+          ],
+          "email": [ ],
+          "first_name": "LAUREN",
+          "gender": "f",
+          "last_name": "BERNATIS",
+          "npi": "1568034148",
+          "pecos_id": "9234532607",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": true,
+            "is_prescriber": true,
+            "is_primary_care_provider": true,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Nurse Practitioner"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": true,
+              "taxonomy_code": "363LF0000X",
+              "taxonomy_name": "Family Nurse Practitioner"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "9025 Grant St Ste 200",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7194650069",
+              "state": "CO",
+              "zip": "802294347"
+            },
+            {
+              "addr1": "9351 Grant St Ste 100",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "7206872014",
+              "state": "CO",
+              "zip": "802294364"
+            },
+            {          "addr1": "9351 Grant St",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "",
+              "state": "CO",
+              "zip": "802294358"
+            },
+            {
+              "addr1": "4624 N Davis Hwy",
+              "addr2": "",
+              "city": "Pensacola",
+              "fax": "8504940001",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "8504940000",
+              "state": "FL",
+              "zip": "325032337"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "DO"
+            }
+          ],
+          "email": [
+            "drshoemakerdo@gmail.com"
+          ],
+          "first_name": "ERIC",
+          "gender": "m",
+          "last_name": "SHOEMAKER",
+          "npi": "1053554261",
+          "pecos_id": "5597908103",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physician"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "208100000X",
+              "taxonomy_name": "Physical Medicine & Rehabilitation Physician"
+            },
+            {
+              "is_primary": false,
+              "taxonomy_code": "207QS0010X",
+              "taxonomy_name": "Sports Medicine (Family Medicine) Physician"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "2081S0010X",
+              "taxonomy_name": "Sports Medicine (Physical Medicine & Rehabilitation) Physician"
+            }
+          ]
+        },
+        {
+          "address": [
+            {
+              "addr1": "1610 Prairie Center Pkwy Ste 2200",
+              "addr2": "",
+              "city": "Brighton",
+              "fax": "",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3034981885",
+              "state": "CO",
+              "zip": "806014008"
+            },
+            {
+              "addr1": "1610 Prairie Center Pkwy",
+              "addr2": "",
+              "city": "Brighton",
+              "fax": "3034981884",
+              "insurances": [ ],
+              "isPrimary": false,
+              "phone": "3034981885",
+              "state": "CO",
+              "zip": "806014000"
+            },
+            {
+              "addr1": "9195 Grant St Ste 120",
+              "addr2": "",
+              "city": "Thornton",
+              "fax": "3034532998",
+              "insurances": [ ],
+              "isPrimary": true,
+              "phone": "3034532997",
+              "state": "CO",
+              "zip": "802294386"
+            }
+          ],
+          "credential": [
+            {
+              "credential": "MD"
+            }
+          ],
+          "email": [
+            "aaron@sayreville.com"
+          ],
+          "first_name": "AARON",
+          "gender": "m",
+          "last_name": "BAXTER",
+          "npi": "1174557318",
+          "pecos_id": "9931103801",
+          "prac_language": [ ],
+          "practitioner_tags": {
+            "is_advanced_practice_provider": false,
+            "is_prescriber": true,
+            "is_primary_care_provider": false,
+            "is_referrable": true,
+            "practitioner_type": [
+              "Physician"
+            ]
+          },
+          "sanctioned": false,
+          "sanctions": [ ],
+          "specialty": [
+            {
+              "is_primary": false,
+              "taxonomy_code": "208600000X",
+              "taxonomy_name": "Surgery Physician"
+            },
+            {
+              "is_primary": true,
+              "taxonomy_code": "207X00000X",
+              "taxonomy_name": "Orthopaedic Surgery Physician"
+            }
+          ]
+        }
+      ]
+}
